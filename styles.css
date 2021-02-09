@@ -90,6 +90,10 @@
     
 }
 
+.port_charla{
+    margin-right: 90px;
+}
+
 .project{
     flex-grow: 1;
     flex-basis: 250px;
@@ -219,6 +223,11 @@
 
     #aside{
         margin-right: 0px;
+    }
+
+    .port_charla{
+        margin-left: 20px;
+        margin-right: 20px;
     }
 
     .project{
