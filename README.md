@@ -2,7 +2,7 @@
 
 ### [Presentación](https://megagringa.github.io/Portafolio/index.html)
 
-Portafolio con proyectos, códigos y mas.
+Portafolio con una muestra de proyectos, códigos y mas. // Lenguajes y tecnologías: HTML, CSS, Javascript, Java, Node.js
 
 ## Lenguajes y Tecnoloías
 
